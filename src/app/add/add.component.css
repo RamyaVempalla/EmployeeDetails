@@ -1,0 +1,26 @@
+p{
+    margin:50px;
+    margin-left: 25px;
+}
+
+div {
+    padding-bottom: 0.89em;
+}
+
+/* essential */
+label {
+    float: left;
+    width: 6em;
+    text-align: left;
+    padding-right: 0.5em;
+}
+
+/* input, textarea {
+    text-align: left;
+    width: 20em;
+} */
+
+input.submit {
+    margin-left: 90px;
+    width: auto;
+}
